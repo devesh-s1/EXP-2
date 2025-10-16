@@ -1,6 +1,6 @@
 # Experiment 2: Blockchain-Based Crowdfunding (Kickstarter Alternative)
-# Name : YUGABHARATHI M
-# Reg No : 212224230314
+# Name : DEVESH SHARMA S
+# Reg No : 212222110008
 ## Aim:
 To create a decentralized crowdfunding platform where donors contribute funds only if the campaign goal is met.
 
